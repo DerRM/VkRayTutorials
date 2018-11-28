@@ -1,0 +1,12 @@
+build/*
+*.exe
+*.iobj
+*.ipdb
+*.pdb
+*.bat
+*.sln
+.vs/*
+Projects/*
+Source/Shaders/CompilationReadme.txt
+Source/Shaders/*.spv
+Source/Assets/*
